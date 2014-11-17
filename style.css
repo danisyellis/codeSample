@@ -1,0 +1,36 @@
+body {
+    background-color: #778899;
+    color: #ffA500;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 22px;
+}
+
+.explain {
+    font-size: 22px;
+}
+
+.buttons {
+    text-align: center;
+}
+button {
+    width: 70px;
+    height: 30px;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 5px;
+    color: #090909;
+}
+
+input {
+    margin-bottom: 10px;
+}
