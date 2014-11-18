@@ -1,20 +1,24 @@
 body {
-    background-color: #778899;
-    color: #ffA500;
+    background-color: #619885;
+    color: #69594E;
+    max-width: 1340px;
+    margin-left: 40px;
 }
 
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 68px;
+    font-weight: 700;
+
 }
 
 h3 {
     text-align: center;
-    font-size: 22px;
+    font-size: 24px;
 }
 
 .explain {
-    font-size: 22px;
+    font-size: 28px;
 }
 
 .buttons {
@@ -33,4 +37,17 @@ form {
 
 input {
     margin-bottom: 10px;
+}
+
+.fizzBuzz {
+    color: #F9E5B1;
+    -webkit-column-count: 5; /* Chrome, Safari, Opera */
+    -moz-column-count: 5; /* Firefox */
+    column-count: 5;
+    margin: 50px 0 50px 120px
+}
+
+p {
+    margin-top: 0;
+    font-size: 18px;
 }
